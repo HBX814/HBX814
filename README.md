@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hbx814" alt="hbx814" /></a> </p>
 
-- 🔭 I’m currently working on [Chat-Bot](https://github.com/HBX814/Chat-Bot)
-
 - 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HBX814](https://github.com/HBX814)
