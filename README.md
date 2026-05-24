@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harsh Bhati</h1>
-<h3 align="center">A passionate ML Engineer from India</h3>
+<h3 align="center">A passionate AI/ML and Software (DevOps) Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hbx814&label=Profile%20views&color=0e75b6&style=flat" alt="hbx814" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hbx814" alt="hbx814" /></a> </p>
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I am proficient in Agentic AI and Full Stack Web Development.
 
 - 👨‍💻 All of my projects are available at [https://github.com/HBX814](https://github.com/HBX814)
 
